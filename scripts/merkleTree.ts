@@ -17,9 +17,14 @@ export function getMerkleTreeProof(
     return {
       userAddr: userAddresses[index],
       destinationAddr: tokenAddresses[index],
-      selectorId: web3.utils.sha3("transfer(address,uint256)")!,
+      selectorId: web3.utils.sha3("transfer(address,uint256)")!.slice(0, 10),
     };
   });
+
+  console.log("---------");
+  console.log("List user permissions");
+  console.log("---------");
+  console.log(userPermissions);
 
   const leafNodes = userPermissions.map((userPermission) =>
     keccak256(

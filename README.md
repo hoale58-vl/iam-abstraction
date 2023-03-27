@@ -27,8 +27,13 @@ The user interact with the contract account by submit
 
 ## Deployed contracts
 
-Goerli: [0xb9Cd1dd44799f508769040156962E01ADf97e330](https://goerli.basescan.org/address/0xb9Cd1dd44799f508769040156962E01ADf97e330)
+**Goerli**
 
+MyToken1: [0x3c10E354EfA9e703f37f7C4Af940BA7b91dbe49f](https://goerli.basescan.org/address/0x3c10E354EfA9e703f37f7C4Af940BA7b91dbe49f)
+MyToken2: [0x8bF7aF79cfb89d7E89cE6f73Af341A81cbD6936b](https://goerli.basescan.org/address/0x8bF7aF79cfb89d7E89cE6f73Af341A81cbD6936b)
+MyToken3: [0x9f80aC79BDDe5441296e8Fb19716185610fb668E](https://goerli.basescan.org/address/0x9f80aC79BDDe5441296e8Fb19716185610fb668E)
+MerkleProof: [0xb9cbf467afDc49e45214Edd2033E72019751ED66](https://goerli.basescan.org/address/0xb9cbf467afDc49e45214Edd2033E72019751ED66)
+IamAbstraction: [0x2696e20AA4A6c5A2F570A7F8e1125D28C8eEd898](https://goerli.basescan.org/address/0x2696e20AA4A6c5A2F570A7F8e1125D28C8eEd898)
 
 ## Example workflow
 
